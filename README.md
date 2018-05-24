@@ -9,5 +9,3 @@ Jacquiline Gitau
 
 ### Project setup instructions
 To play the game click [here](https://github.com/Jacquigee/pigdice)
-
-#### copyright and license information
