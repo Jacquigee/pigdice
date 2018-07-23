@@ -1,0 +1,15 @@
+body {
+  align-items: center;
+}
+
+.background{
+  background-image: url(images/dice.jpeg);
+}
+
+h1 {
+  font-family: serif;
+  font-style: italic;
+}
+.button {
+
+}
